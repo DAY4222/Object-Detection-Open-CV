@@ -1,5 +1,5 @@
 # Object-Detection-Open-CV
- Open CV OB for video, image and webcam
+ Open CV Object Detection for video, image and webcam. Open ipynb file to view.
 
 In this script, one can process any image, video or use their webcam, leverage mobilenet_v3 a object detection model, to identify objects seen in the files. The 80 objects it can detect are found within the file named "labels". 
 
